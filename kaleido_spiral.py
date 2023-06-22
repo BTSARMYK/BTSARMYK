@@ -1,6 +1,6 @@
 import turtle
 
-from iterations import cycle
+from itertools import cycle
 colors = cycle(['red', 'orange', 'yellow', 'green', 'blue',
 'purple'])
 
