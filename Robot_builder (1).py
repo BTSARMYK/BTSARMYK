@@ -35,7 +35,7 @@ rectangle(100,150,'red')
 #arms
 t.goto(-150, 70)
 rectangle(60,15,'grey')
-t.goto(-105,110)
+t.goto(-150,110)
 rectangle(15,40,'grey')
 
 t.goto(10, 70)
